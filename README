@@ -1,0 +1,4 @@
+CONTAINS README FOR LATEX RESUME
+use pdflatex command to convert tex file to pdf
+https://www.sharelatex.com/blog/2011/03/27/how-to-write-a-latex-class-file-and-design-your-own-cv.html
+http://www.maxburstein.com/blog/creating-resume-using-latex/
